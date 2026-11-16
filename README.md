@@ -15,11 +15,29 @@ The lab focuses on JavaScript functions, event handling, input validation, loops
 ### Question 1 - Interactive Text Changer
 A webpage that changes the paragraph text from "Welcome to my website!" to "Hello there!" when the button is clicked.
 
+## Question 1 Output
+
+![Q1 Output](screenshots/Q1-output.png)
+![Q1 Result](screenshots/Q1-result.png)
+
 ### Question 2 - Smart Number Validator
 A webpage that accepts a number and checks whether it is lower than, higher than or equal to 10. It also validates invalid inputs.
 
+## Question 2 Output
+
+![Q2 Decimal](screenshots/Q2-decimal.png)
+![Q2 Equal](screenshots/Q2-equal.png)
+![Q2 Lower](screenshots/Q2-lower.png)
+![Q2 Higher](screenshots/Q2-higher.png)
+![Q2 Invalid](screenshots/Q2-invalid.png)
+![Q2 Invalid](screenshots/Q2-invalid2.png)
+
 ### Question 3 - Dynamic Number Generator
 A webpage that generates an ordered list from 1 to 5 using a JavaScript for loop and DOM manipulation.
+
+## Question 3 Output
+
+![Q3 Decimal](screenshots/Q3-output.png)
 
 ## How to Run
 
